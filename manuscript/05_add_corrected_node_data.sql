@@ -17,8 +17,6 @@
 -- Notes: Python scripts for editing the node timestamps must be run before this script, which can be found in the subfolder '04_node_timestamp_correction'.
 --
 -----------------------------
-
-
 --combine data from raw and node tables into one - add KL Divergence data first
 INSERT INTO public.all_data
 SELECT * FROM public.kl_divergence_node_data;
