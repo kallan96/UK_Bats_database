@@ -4,7 +4,7 @@
 --
 -- Purpose of script: This script is to import data from radio station deployments and bat trapping survey data.
 --
--- Author: Dr. Katie Allan
+-- Author: Dr Katie Allan
 --
 -- Date Created: 2022-07-10
 --

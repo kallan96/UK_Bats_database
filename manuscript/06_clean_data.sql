@@ -4,7 +4,7 @@
 --
 -- Purpose of script: This script is to clean node and station data.
 --
--- Author: Dr. Katie Allan
+-- Author: Dr Katie Allan
 --
 -- Date Created: 2022-07-10
 --

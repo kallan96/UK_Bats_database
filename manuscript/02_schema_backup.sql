@@ -4,7 +4,7 @@
 --
 -- Purpose of script: This script is to backup the data that was downloaded from the CTT servers into a separate schema in PostgreSQL.
 --
--- Author: Dr. Katie Allan
+-- Author: Dr Katie Allan
 --
 -- Date Created: 2022-07-10
 --

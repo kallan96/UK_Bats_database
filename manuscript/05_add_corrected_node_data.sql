@@ -4,7 +4,7 @@
 --
 -- Purpose of script: This script is to combine the corrected node timestamp data into the main database.
 --
--- Author: Dr. Katie Allan
+-- Author: Dr Katie Allan
 --
 -- Date Created: 2022-07-10
 --

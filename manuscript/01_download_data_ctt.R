@@ -4,7 +4,7 @@
 ##
 ## Purpose of script: This script is to download data from the CTT servers via API. This is the code that I used for the initial download with credentials removed. Please follow the updated tutorial from the celltracktech R package, available here: https://github.com/cellular-tracking-technologies/celltracktech 
 ##
-## Author: Dr. Katie Allan
+## Author: Dr Katie Allan
 ##
 ## Date Created: 2022-07-10
 ##

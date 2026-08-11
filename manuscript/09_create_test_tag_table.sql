@@ -4,7 +4,7 @@
 --
 -- Purpose of script: This script is to create data tables of the tags used in calibration and testing.
 --
--- Author: Dr. Katie Allan
+-- Author: Dr Katie Allan
 --
 -- Date Created: 2022-07-10
 --

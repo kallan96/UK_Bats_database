@@ -4,7 +4,7 @@
 --
 -- Purpose of script: This script is to join the station location data to the appropriate detection data based on the receiver ID and deployment history.
 --
--- Author: Dr. Katie Allan
+-- Author: Dr Katie Allan
 --
 -- Date Created: 2022-07-10
 --

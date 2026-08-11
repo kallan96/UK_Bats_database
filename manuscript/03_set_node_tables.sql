@@ -4,7 +4,7 @@
 --
 -- Purpose of script: This script is to set up the tables that are required for correcting the node timestamps that were corrupted.
 --
--- Author: Dr. Katie Allan
+-- Author: Dr Katie Allan
 --
 -- Date Created: 2022-07-10
 --
