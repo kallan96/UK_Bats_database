@@ -14,7 +14,7 @@
 --
 -----------------------------
 --
--- Notes: 'elephant' refers to the large tag used to test if receivers were working; 'old' refers to the first tag design that was used in initial trials' and 'new' refers to the final tag designt that was used in the study.
+-- Notes: 'elephant' refers to the large tag used to test if receivers were working; 'old' refers to the first tag design that was used in initial trials; and 'new' refers to the final tag designt that was used in the study.
 --
 -----------------------------
 --create table of test tags

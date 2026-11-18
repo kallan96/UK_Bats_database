@@ -24,12 +24,6 @@ radio_id, tag_id, node_id, tag_rssi, validated, time, station_id, method, data_s
 FROM
 public.all_data;
 
--- count the number of rows in the table
---SELECT count(*) FROM public.clean_data;
-
--- check the unique node_id values;
---SELECT DISTINCT node_id FROM public.clean_data;
-
 -- recode node names to match correct values
 UPDATE public.clean_data 
 SET node_id = 
@@ -58,11 +52,7 @@ WHEN '3781A5' THEN '3781a5'
 ELSE node_id
 END;
 
--- check the recode worked;
---SELECT DISTINCT node_id FROM public.clean_data;
-
 -- create new table of only node's
--- CREATE VIEW
 CREATE TABLE z_clean_node_data AS
 SELECT DISTINCT on (node_id, tag_id, tag_rssi, time) clean_data.* 
 FROM public.clean_data

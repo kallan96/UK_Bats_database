@@ -39,9 +39,3 @@ SELECT DISTINCT on (tag_id, time, node_id, tag_rssi) public.bat_data.*
 FROM public.bat_data
 WHERE node_id IS NOT NULL
 ORDER BY tag_id, time, node_id, tag_rssi DESC;
-
---create new table of bat_animation_data
-CREATE TABLE public.bat_animation_data AS
-SELECT DISTINCT on (tag_id, time, tag_rssi) public.bat_summary_data.* 
-FROM public.bat_summary_data
-ORDER BY tag_id, time, tag_rssi DESC;
