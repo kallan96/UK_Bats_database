@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: Allan
+    given-names: Katie
+title: "UK_Bats_database: Code for the construction of the PhD bat research database"
+abstract: "Code used to construct and populate the PostgreSQL database supporting my PhD research on bat ecology."
+version: "1.0.0"
+date-released: "2026-11-25"
+license: MIT
+repository-code: "https://github.com/kallan96/UK_Bats_database"
+url: "https://github.com/kallan96/UK_Bats_database"
+keywords:
+  - bat ecology
+  - research database
+  - PostgreSQL
+  - SQL
+  - R
+  - Python
