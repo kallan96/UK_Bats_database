@@ -78,6 +78,7 @@ The scripts should be run in the appropriate order to create the database struct
 This database supported the research undertaken as part of my PhD at the University of Sussex. My thesis, "Monitoring the winter activity of the greater horseshoe bat, *Rhinolophus ferrumequinum*, using an Automated Radio Telemetry System", is available at [the University of Sussex Figshare](https://hdl.handle.net/10779/uos.34094334).
 
 The code used to analyse individual research chapters is available in separate repositories, where applicable.
+- [Chapter 2](https://github.com/kallan96/GHS_winter_activity) 
 
 ## Citation
 
